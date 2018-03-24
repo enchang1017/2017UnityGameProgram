@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 08cd50e36e107304697ba6c4bcb43e15
+timeCreated: 1513872536
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Clay
+    100002: Coal_Ore
+    100004: Cobblestone
+    100006: Dirt
+    100008: Double_Stone_Slab
+    100010: Double_Wooden_Slab
+    100012: Fence
+    100014: Glass_Pane
+    100016: Grass_Block
+    100018: Gravel
+    100020: Iron_Ore
+    100022: Jungle_Wood_Stairs
+    100024: //RootNode
+    100026: Oak_Wood_Planks
+    100028: Sand
+    100030: Stationary_Water
+    100032: Stone
+    100034: Stone_Brick_Stairs
+    100036: Stone_Bricks
+    100038: Stone_Bricks_MeshPart0
+    100040: Stone_Bricks_MeshPart1
+    100042: Stone_Bricks_MeshPart2
+    100044: Stone_Slab
+    100046: Torch
+    100048: Wall_Sign
+    100050: Wooden_Door
+    100052: Wooden_Slab
+    100054: Wool
+    400000: Clay
+    400002: Coal_Ore
+    400004: Cobblestone
+    400006: Dirt
+    400008: Double_Stone_Slab
+    400010: Double_Wooden_Slab
+    400012: Fence
+    400014: Glass_Pane
+    400016: Grass_Block
+    400018: Gravel
+    400020: Iron_Ore
+    400022: Jungle_Wood_Stairs
+    400024: //RootNode
+    400026: Oak_Wood_Planks
+    400028: Sand
+    400030: Stationary_Water
+    400032: Stone
+    400034: Stone_Brick_Stairs
+    400036: Stone_Bricks
+    400038: Stone_Bricks_MeshPart0
+    400040: Stone_Bricks_MeshPart1
+    400042: Stone_Bricks_MeshPart2
+    400044: Stone_Slab
+    400046: Torch
+    400048: Wall_Sign
+    400050: Wooden_Door
+    400052: Wooden_Slab
+    400054: Wool
+    2300000: Clay
+    2300002: Coal_Ore
+    2300004: Cobblestone
+    2300006: Dirt
+    2300008: Double_Stone_Slab
+    2300010: Double_Wooden_Slab
+    2300012: Fence
+    2300014: Glass_Pane
+    2300016: Grass_Block
+    2300018: Gravel
+    2300020: Iron_Ore
+    2300022: Jungle_Wood_Stairs
+    2300024: Oak_Wood_Planks
+    2300026: Sand
+    2300028: Stationary_Water
+    2300030: Stone
+    2300032: Stone_Brick_Stairs
+    2300034: Stone_Bricks_MeshPart0
+    2300036: Stone_Bricks_MeshPart1
+    2300038: Stone_Bricks_MeshPart2
+    2300040: Stone_Slab
+    2300042: Torch
+    2300044: Wall_Sign
+    2300046: Wooden_Door
+    2300048: Wooden_Slab
+    2300050: Wool
+    3300000: Clay
+    3300002: Coal_Ore
+    3300004: Cobblestone
+    3300006: Dirt
+    3300008: Double_Stone_Slab
+    3300010: Double_Wooden_Slab
+    3300012: Fence
+    3300014: Glass_Pane
+    3300016: Grass_Block
+    3300018: Gravel
+    3300020: Iron_Ore
+    3300022: Jungle_Wood_Stairs
+    3300024: Oak_Wood_Planks
+    3300026: Sand
+    3300028: Stationary_Water
+    3300030: Stone
+    3300032: Stone_Brick_Stairs
+    3300034: Stone_Bricks_MeshPart0
+    3300036: Stone_Bricks_MeshPart1
+    3300038: Stone_Bricks_MeshPart2
+    3300040: Stone_Slab
+    3300042: Torch
+    3300044: Wall_Sign
+    3300046: Wooden_Door
+    3300048: Wooden_Slab
+    3300050: Wool
+    4300000: Clay
+    4300002: Coal_Ore_MeshPart0
+    4300004: Cobblestone_MeshPart0
+    4300006: Dirt_MeshPart0
+    4300008: Double_Stone_Slab_MeshPart0
+    4300010: Double_Wooden_Slab
+    4300012: Fence
+    4300014: Glass_Pane
+    4300016: Grass_Block_MeshPart0
+    4300018: Gravel_MeshPart0
+    4300020: Iron_Ore_MeshPart0
+    4300022: Jungle_Wood_Stairs
+    4300024: Oak_Wood_Planks
+    4300026: Sand
+    4300028: Stationary_Water
+    4300030: Stone_MeshPart0
+    4300032: Stone_Brick_Stairs
+    4300034: Stone_Bricks_MeshPart0
+    4300036: Stone_Bricks_MeshPart1
+    4300038: Stone_Bricks_MeshPart2
+    4300040: Stone_Slab
+    4300042: Torch
+    4300044: Wall_Sign
+    4300046: Wooden_Door
+    4300048: Wooden_Slab
+    4300050: Wool
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 26ed4cbf1ed37e04984b910175f13337
+timeCreated: 1513862036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Clay
+    100002: Coal_Ore
+    100004: Dirt
+    100006: Double_Stone_Slab
+    100008: Grass_Block
+    100010: Grass_Block_MeshPart0
+    100012: Grass_Block_MeshPart1
+    100014: Gravel
+    100016: Iron_Ore
+    100018: Oak_Leaves
+    100020: Sand
+    100022: Sandstone_Stairs
+    100024: Snow
+    100026: Stationary_Water
+    100028: Stone
+    100030: Stone_Bricks
+    100032: Stone_Slab
+    100034: //RootNode
+    100036: Wool
+    100038: Wool_MeshPart0
+    100040: Wool_MeshPart1
+    100042: Wool_MeshPart10
+    100044: Wool_MeshPart11
+    100046: Wool_MeshPart12
+    100048: Wool_MeshPart13
+    100050: Wool_MeshPart14
+    100052: Wool_MeshPart15
+    100054: Wool_MeshPart2
+    100056: Wool_MeshPart3
+    100058: Wool_MeshPart4
+    100060: Wool_MeshPart5
+    100062: Wool_MeshPart6
+    100064: Wool_MeshPart7
+    100066: Wool_MeshPart8
+    100068: Wool_MeshPart9
+    400000: Clay
+    400002: Coal_Ore
+    400004: Dirt
+    400006: Double_Stone_Slab
+    400008: Grass_Block
+    400010: Grass_Block_MeshPart0
+    400012: Grass_Block_MeshPart1
+    400014: Gravel
+    400016: Iron_Ore
+    400018: Oak_Leaves
+    400020: Sand
+    400022: Sandstone_Stairs
+    400024: Snow
+    400026: Stationary_Water
+    400028: Stone
+    400030: Stone_Bricks
+    400032: Stone_Slab
+    400034: //RootNode
+    400036: Wool
+    400038: Wool_MeshPart0
+    400040: Wool_MeshPart1
+    400042: Wool_MeshPart10
+    400044: Wool_MeshPart11
+    400046: Wool_MeshPart12
+    400048: Wool_MeshPart13
+    400050: Wool_MeshPart14
+    400052: Wool_MeshPart15
+    400054: Wool_MeshPart2
+    400056: Wool_MeshPart3
+    400058: Wool_MeshPart4
+    400060: Wool_MeshPart5
+    400062: Wool_MeshPart6
+    400064: Wool_MeshPart7
+    400066: Wool_MeshPart8
+    400068: Wool_MeshPart9
+    2300000: Clay
+    2300002: Coal_Ore
+    2300004: Dirt
+    2300006: Double_Stone_Slab
+    2300008: Grass_Block_MeshPart0
+    2300010: Grass_Block_MeshPart1
+    2300012: Gravel
+    2300014: Iron_Ore
+    2300016: Oak_Leaves
+    2300018: Sand
+    2300020: Sandstone_Stairs
+    2300022: Snow
+    2300024: Stationary_Water
+    2300026: Stone
+    2300028: Stone_Bricks
+    2300030: Stone_Slab
+    2300032: Wool_MeshPart0
+    2300034: Wool_MeshPart1
+    2300036: Wool_MeshPart10
+    2300038: Wool_MeshPart11
+    2300040: Wool_MeshPart12
+    2300042: Wool_MeshPart13
+    2300044: Wool_MeshPart14
+    2300046: Wool_MeshPart15
+    2300048: Wool_MeshPart2
+    2300050: Wool_MeshPart3
+    2300052: Wool_MeshPart4
+    2300054: Wool_MeshPart5
+    2300056: Wool_MeshPart6
+    2300058: Wool_MeshPart7
+    2300060: Wool_MeshPart8
+    2300062: Wool_MeshPart9
+    3300000: Clay
+    3300002: Coal_Ore
+    3300004: Dirt
+    3300006: Double_Stone_Slab
+    3300008: Grass_Block_MeshPart0
+    3300010: Grass_Block_MeshPart1
+    3300012: Gravel
+    3300014: Iron_Ore
+    3300016: Oak_Leaves
+    3300018: Sand
+    3300020: Sandstone_Stairs
+    3300022: Snow
+    3300024: Stationary_Water
+    3300026: Stone
+    3300028: Stone_Bricks
+    3300030: Stone_Slab
+    3300032: Wool_MeshPart0
+    3300034: Wool_MeshPart1
+    3300036: Wool_MeshPart10
+    3300038: Wool_MeshPart11
+    3300040: Wool_MeshPart12
+    3300042: Wool_MeshPart13
+    3300044: Wool_MeshPart14
+    3300046: Wool_MeshPart15
+    3300048: Wool_MeshPart2
+    3300050: Wool_MeshPart3
+    3300052: Wool_MeshPart4
+    3300054: Wool_MeshPart5
+    3300056: Wool_MeshPart6
+    3300058: Wool_MeshPart7
+    3300060: Wool_MeshPart8
+    3300062: Wool_MeshPart9
+    4300000: Clay_MeshPart0
+    4300002: Coal_Ore
+    4300004: Dirt_MeshPart0
+    4300006: Double_Stone_Slab
+    4300008: Grass_Block_MeshPart0
+    4300010: Grass_Block_MeshPart1
+    4300012: Gravel_MeshPart0
+    4300014: Iron_Ore
+    4300016: Oak_Leaves
+    4300018: Sand_MeshPart0
+    4300020: Sandstone_Stairs
+    4300022: Snow
+    4300024: Stationary_Water_MeshPart0
+    4300026: Stone_MeshPart0
+    4300028: Stone_Bricks
+    4300030: Stone_Slab
+    4300032: Wool_MeshPart0
+    4300034: Wool_MeshPart1
+    4300036: Wool_MeshPart2
+    4300038: Wool_MeshPart3
+    4300040: Wool_MeshPart4
+    4300042: Wool_MeshPart5
+    4300044: Wool_MeshPart6
+    4300046: Wool_MeshPart7
+    4300048: Wool_MeshPart8
+    4300050: Wool_MeshPart9
+    4300052: Wool_MeshPart10
+    4300054: Wool_MeshPart11
+    4300056: Wool_MeshPart12
+    4300058: Wool_MeshPart13
+    4300060: Wool_MeshPart14
+    4300062: Wool_MeshPart15
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
